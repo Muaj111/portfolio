@@ -61,4 +61,12 @@ nav a{
 .description{
     text-align: center;
     font-size: 20px;
+    padding: 10px 100px 10px 100px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }

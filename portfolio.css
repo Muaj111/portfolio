@@ -42,9 +42,23 @@ nav a{
 .banner{
     align-items: center;
     font-size: 25px;
-    padding: 100px;
+    padding: 30px 100px 0 100px;
    display: flex;
 }
 .banner .pic{
-    width: 400px;
+    width: 500px;
+}
+.about{
+    padding: 10px 100px 10px 100px;
+    font-size: 20px;
+    background-color: goldenrod;
+    margin: 50px 200px 0 200px;
+}
+.section-title{
+    text-align: center;
+    font-size: 25px;
+}
+.description{
+    text-align: center;
+    font-size: 20px;
 }

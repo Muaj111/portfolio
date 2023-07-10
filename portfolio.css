@@ -59,7 +59,7 @@ main section{
 }
 .section-title{
     text-align: center;
-    font-size: 25px;
+    font-size: 35px;
 }
 .description{
     text-align: center;
@@ -107,4 +107,12 @@ main section{
     color: rgb(6, 52, 6);
     font-size: 30px;
     font-weight: 700;
+}
+.resume-container{
+    display: flex;
+    gap: 100px;
+    padding: 30px 300px;
+}
+.download-cv{
+    text-align: center;
 }
